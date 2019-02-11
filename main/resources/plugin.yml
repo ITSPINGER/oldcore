@@ -1,0 +1,9 @@
+main: me.Pinger.core.Core
+version: 1.0
+name: Core
+
+commands:
+  rankadd:
+    usage: /<command>
+  staffchat:
+    usage: /<command>
